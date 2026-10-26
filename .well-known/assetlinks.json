@@ -1,1 +1,1 @@
-[{"relation":["delegate_permission/common.handle_all_urls"],"target":{"namespace":"android_app","package_name":"REPLACE.WITH.PACKAGE.NAME","sha256_cert_fingerprints":["REPLACE:WITH:SHA256:FINGERPRINT"]}}]
+[{"relation":["delegate_permission/common.handle_all_urls"],"target":{"namespace":"android_app","package_name":"io.github.birhanfeyisa21.sundayschool","sha256_cert_fingerprints":["6D:65:F6:BD:2C:43:95:87:28:46:54:85:66:E3:06:AC:CA:A9:D8:EE:EB:A8:92:0E:3A:C9:B4:FF:BF:78:0B:5F"]}}]
